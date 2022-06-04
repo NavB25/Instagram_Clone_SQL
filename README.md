@@ -1,4 +1,4 @@
-# SQL Instagram Clone
+# SQL Instagram Database
 
 As an avid user of Instagram, it is difficult to truly grasp how complex of a database the app must have to manage well over 1 billion users worldwide! I was curious whether or not I could atleast replicate the fundemental design of Instagram with the use of SQL and with only 100 randomly generated users.
 
